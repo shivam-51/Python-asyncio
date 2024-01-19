@@ -1,0 +1,62 @@
+SURVEY_ENTRY_ID,SHOP_DATE_TIME,LOC_ID,NPS_RESPONSE,COMMENT_GROUP,COMMENT,Response
+22691567,6/1/2023 7:45,1174,3,Bakery,Freshly baked bread available throughout the day,"Themes: freshness, availability, bread
+
+Sentiment: positive"
+22691567,6/1/2023 7:45,1174,3,Trolleys Baskets,Ample trolleys and baskets at the entrance,"Theme: Convenience and availability of grocery carts and baskets at the entrance of a store.
+Sentiment: Positive"
+22691567,6/1/2023 7:45,1174,3,General,Discounts on certain items could be more frequent,"Theme: Discounts on certain items
+Sentiment: neutral"
+22671589,6/1/2023 7:50,6659,2,Grocery,More options for gluten-free products needed,"Theme: Lack of options for gluten-free products
+Sentiment: Negative"
+22671589,6/1/2023 7:50,6659,2,Meat,Excellent meat quality but prices are high,"Themes: 
+1. Meat quality: The reviewer mentions that the meat quality is excellent. This implies that they are satisfied with the taste, tenderness, and overall quality of the meat.
+
+2. High prices: The reviewer also mentions that the prices are high. This suggests that they find the cost of the meat to be expensive or not value for money.
+
+Sentiment:
+The sentiment of the review is mixed. While the reviewer is satisfied with the meat quality, they express dissatisfaction with the high prices. Overall, it can be interpreted that the positive experience of the meat quality is somewhat offset by the negative aspect of the high prices."
+22671589,6/1/2023 7:50,6659,2,Produce,Frequently out of stock on popular fruits,"Themes:
+1. Stock availability: The review mentions that the store is frequently out of stock on popular fruits.
+
+Sentiment:
+1. Negative sentiment: The reviewer is indicating their dissatisfaction with the store's frequent stock shortages."
+22671589,6/1/2023 7:50,6659,2,Checkout,Long queues during peak hours,"Theme: Waiting time
+Sentiment: Negative"
+22671589,6/1/2023 7:50,6659,2,Store Cleanliness,Could use more regular deep cleaning,"Theme: Cleaning
+Sentiment: Neutral/Neutral"
+22671589,6/1/2023 7:50,6659,2,Trolleys Baskets,Sufficient trolleys but baskets often unavailable,"Theme: Availability of shopping carts and baskets
+
+Sentiment: Neutral"
+22671589,6/1/2023 7:50,6659,2,Bakery,Fresh pastries and cakes are a highlight,"Theme: Fresh pastries and cakes
+Sentiment: Positive"
+22671589,6/1/2023 7:50,6659,2,General,Staff is friendly and approachable,"Theme: Friendliness and Approachability of Staff
+Sentiment: Positive"
+22671589,6/1/2023 7:50,6659,2,Fresh Produce,Varied selection of fresh fruits and vegetables,"Theme: Selection of fresh fruits and vegetables
+Sentiment: Positive"
+22671589,6/1/2023 7:50,6659,2,General,Cleanliness could be improved in some sections,"Theme: Cleanliness
+Sentiment: Negative (could be improved)"
+22671589,6/1/2023 7:50,6659,2,General,Overall a pleasant shopping experience,"Theme: Shopping experience
+Sentiment: Positive"
+22691602,6/1/2023 7:55,2248,1,Meat,Great variety of cuts available,
+22691602,6/1/2023 7:55,2248,1,Produce,Organic section needs expansion,"Theme: Organic section expansion
+Sentiment: Neutral"
+22691602,6/1/2023 7:55,2248,1,Grocery,Prices are reasonable compared to competitors,"Theme: Pricing
+Sentiment: Positive"
+22691602,6/1/2023 7:55,2248,1,Checkout,Fast and efficient checkout process,"Theme: Checkout process
+Sentiment: Positive (fast and efficient)"
+22691602,6/1/2023 7:55,2248,1,Store Cleanliness,Well-maintained and clean store environment,"Themes: Store environment, cleanliness
+Sentiment: Positive"
+22691602,6/1/2023 7:55,2248,1,Bakery,Delicious pastries and bread selection,"Themes: 
+- Food quality and taste
+- Variety of pastries and breads
+
+Sentiment:
+- Positive sentiment: The reviewer describes the pastries and bread as delicious, indicating a positive experience with the food."
+22691602,6/1/2023 7:55,2248,1,Fresh Produce,Frequently stocked with fresh fruits and vegetables,"Theme: Fresh produce
+Sentiment: Positive"
+22691602,6/1/2023 7:55,2248,1,General,Staff is knowledgeable and helpful,"Theme: Staff knowledge and helpfulness
+Sentiment: Positive"
+22691602,6/1/2023 7:55,2248,1,Trolleys Baskets,Adequate trolleys and baskets available,"Themes: Availability of trolleys and baskets
+Sentiment: Positive, denotes satisfaction with the availability of trolleys and baskets."
+22691602,6/1/2023 7:55,2248,1,General,Love shopping at this store!,"Themes: Shopping, store, enjoyment
+Sentiment: Positive"
